@@ -35,7 +35,7 @@
 
 9) Negative margins are legal in CSS. They help move elements closer to their neighbors.
 
-10) First of, if the div has no other styling how are we to know that the margin-top of the p tag shows up on the div? Also I ran into a similar situation once, while building a web page, to overcome this I used the "overflow" property and set it to "hidden" or "auto" and it worked for me.
+10) First of, if the div has no other styling how are we to know that the margin-top of the p tag shows up on the div? Also I ran into a similar situation once, while building a web page, to overcome this I used the "overflow" property and set it to "hidden" or "auto" and it worked for me. The reason I read at the time had to do with the margins collapsing because the was no styling to seperate the parent element from the child element.
 
 
 ## Unit Tests
