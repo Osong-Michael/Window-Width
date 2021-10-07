@@ -44,7 +44,7 @@
 
 12) Like with learning anything, writing tests at the begining can be tricky and a bit difficult, I found that out, espcially when using Enzyme to test components connected to Redux, but with practise and conscistency you eventually get better at it. In my career, professionally, unit test are covered using Jest while integration tests are covered with Cypress.
 
-13) I have not thought of this before, but my guess is to test if a Parent component is passing props correctly to the child component we will have to test the parent component and create mock props to test and see if our assertions  that the child component receives those props os true or not. 
+13) I have not thought of this before, but my guess is to test if a Parent component is passing props correctly to the child component we will have to test the parent component and create mock props to test and see if our assertions  that the child component receives those props are true or not. 
 
 
 
